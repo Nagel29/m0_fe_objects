@@ -29,9 +29,9 @@ foods.oranges = 200
 console.log(foods)
 
 
-#-------------------
+-------------------
 // Part 2: Email
-#-------------------
+-------------------
 
 
 // Think about all the pieces of information associated with one single email in your inbox.
@@ -52,9 +52,9 @@ console.log(foods)
 // YOUR CODE HERE
 
 
-#-------------------
+-------------------
 // Part 3: Many Emails - CHALLENGE!
-#-------------------
+-------------------
 
 // LONG EXAMPLE:
 // Now that we've learned about Objects AND Arrays, we can combine them.
